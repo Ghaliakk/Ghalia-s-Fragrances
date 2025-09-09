@@ -3,6 +3,12 @@ Official repository for Ghalia’s Fragrances – transforming moments into memo
 # 🌸 Ghalia’s Fragrances  
 ✨ *Transforming Moments into Memories* ✨  
 
+![GitHub Repo stars](https://img.shields.io/github/stars/your-username/ghalias-fragrances?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/your-username/ghalias-fragrances?style=social)  
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)  
+![Instagram](https://img.shields.io/badge/Instagram-@ghaliasfragrances-pink?logo=instagram&logoColor=white)  
+![Facebook](https://img.shields.io/badge/Facebook-@ghaliasfragrances-blue?logo=facebook&logoColor=white)  
+
 Welcome to the official repository of **Ghalia’s Fragrances** – a brand dedicated to creating timeless perfumes that capture emotions and make every moment unforgettable.  
 
 ---
@@ -35,7 +41,7 @@ To deliver **premium quality perfumes** at an affordable price, transforming eve
 
 ## 📫 Connect with Us  
 - 📧 Email: **ghaliakaimkhani@gmail.com**  
-- 📱 Phone: **03363634406**  
+- 📱 Phone: **03002427384**  
 - 🌐 Instagram: [@ghaliasfragrances](https://instagram.com/ghaliasfragrances)  
 - 🌐 Facebook: [@ghaliasfragrances](https://facebook.com/ghaliasfragrances)  
 
@@ -44,3 +50,4 @@ To deliver **premium quality perfumes** at an affordable price, transforming eve
 ## 💖 Credits  
 Founded with passion by **Ghalia**.  
 ✨ *Transforming Moments into Memories* ✨  
+
