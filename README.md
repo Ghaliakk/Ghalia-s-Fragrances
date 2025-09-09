@@ -41,7 +41,7 @@ To deliver **premium quality perfumes** at an affordable price, transforming eve
 
 ## 📫 Connect with Us  
 - 📧 Email: **ghaliakaimkhani@gmail.com**  
-- 📱 Phone: **03363634406**  
+- 📱 Phone: **03002427384**  
 - 🌐 Instagram: [@ghaliasfragrances](https://www.instagram.com/ghaliasfragrances?utm_source=qr&igsh=bDNtczVyazF4NzA4)  
 - 🌐 Facebook: [@ghaliasfragrances](https://www.facebook.com/share/1GnAKDtS7T/)  
 
